@@ -1,5 +1,11 @@
 # BP 神经网络手写数字识别（纯 NumPy 实现）
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![No Framework](https://img.shields.io/badge/No%20Framework-Pure%20NumPy-critical?style=flat-square)
+![Accuracy](https://img.shields.io/badge/MNIST%20Accuracy-93.10%25-success?style=flat-square)
+
+
 > 不依赖 PyTorch / TensorFlow，用 NumPy 从零实现 BP 神经网络（784-256-10），在 MNIST 上训练与测试，并支持识别自己手写的数字图片。
 > 本项目为《人工智能》课程实验 06 作品。
 
